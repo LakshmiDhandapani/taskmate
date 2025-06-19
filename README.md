@@ -22,7 +22,6 @@ A lightweight and user-friendly To-Do List web application built with Node.js, E
 - PostgreSQL
 - EJS (Embedded JavaScript Templates)
 - HTML, CSS
-- Bootstrap (if used)
 
 ---
 
